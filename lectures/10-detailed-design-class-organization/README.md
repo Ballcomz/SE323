@@ -1,0 +1,3 @@
+# Details Design, class organization
+
+บันทึก สไลด์ และตัวอย่างโค้ดของหัวข้อนี้
